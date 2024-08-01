@@ -1,0 +1,5 @@
+C:/Users/Adrian/source/repos/Reloj/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Adrian/source/repos/Reloj/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Adrian/source/repos/Reloj/out/build/x64-debug/Reloj/CMakeFiles/Reloj.dir
+C:/Users/Adrian/source/repos/Reloj/out/build/x64-debug/Reloj/CMakeFiles/edit_cache.dir
+C:/Users/Adrian/source/repos/Reloj/out/build/x64-debug/Reloj/CMakeFiles/rebuild_cache.dir
